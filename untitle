@@ -1,0 +1,15 @@
+npm init -y to know the project detailes
+npm i express
+npm i nodemon
+dynamic routing 
+done 
+how to get data coming from frontend at abcakend side 
+
+settinng up parser
+
+setting up ejs page
+npm i ejs
+setup ejs as a view engnine
+add :- app.set('view engine','ejs');
+
+setting up static file
